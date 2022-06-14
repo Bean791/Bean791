@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bean791)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Bean8467&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bean8467&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![Codewars](https://www.codewars.com/users/Bean791/badges/large)
