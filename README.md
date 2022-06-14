@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bean791)](https://github.com/anuraghazra/github-readme-stats)
-
 [![wakatime](https://wakatime.com/badge/user/1b16c001-5354-450b-beaa-cd018ff72824.svg)](https://wakatime.com/@1b16c001-5354-450b-beaa-cd018ff72824)
 <br/>
 ![Codewars](https://www.codewars.com/users/Bean791/badges/large)
